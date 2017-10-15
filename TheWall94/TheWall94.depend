@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1467762790 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\thewall94\main.cpp
+	<iostream>
+	<queue>
+	<utility>
+	<vector>
+

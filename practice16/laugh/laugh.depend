@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1470661416 source:c:\users\mihai\onedrive\documents\dev\projects\codeblocks\ioi\practice16\laugh\grader.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"laugh.h"
+
+1470661412 c:\users\mihai\onedrive\documents\dev\projects\codeblocks\ioi\practice16\laugh\laugh.h
+	<string>
+
+1470661677 source:c:\users\mihai\onedrive\documents\dev\projects\codeblocks\ioi\practice16\laugh\laugh.cpp
+	"laugh.h"
+

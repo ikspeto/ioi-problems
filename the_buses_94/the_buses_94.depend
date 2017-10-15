@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467922809 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\the_buses_94\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

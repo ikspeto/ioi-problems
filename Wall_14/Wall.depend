@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463140799 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\2014\wall\main.cpp
+	<iostream>
+	<cstring>
+	<climits>
+

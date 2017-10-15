@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468063919 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\gondola_14\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

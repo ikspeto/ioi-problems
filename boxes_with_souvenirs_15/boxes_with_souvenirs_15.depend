@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1468018186 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\boxes_with_souvenirs_15\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<set>
+	<algorithm>
+	<climits>
+

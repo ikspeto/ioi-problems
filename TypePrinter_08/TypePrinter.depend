@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464302172 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\2008\typeprinter\main.cpp
+	<iostream>
+	<vector>
+

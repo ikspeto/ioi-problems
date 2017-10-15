@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469558649 source:c:\users\mihai\onedrive\documents\dev\projects\codeblocks\ioi\dreaming_13\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<cstring>
+	<utility>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1467886631 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\the_clocks_94\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+	<climits>
+

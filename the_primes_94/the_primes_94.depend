@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1467806917 source:c:\users\mihail denkovski\dev\projects\codeblocks\ioi\the_primes_94\main.cpp
+	<iostream>
+	<numeric>
+	<algorithm>
+	<set>
+
